@@ -1,5 +1,5 @@
 {
-    "name": "@dragee-io/clean-asserter",
+    "name": "@fixentropy-io/clean-asserter",
     "module": "index.ts",
     "type": "module",
     "version": "0.0.1",
@@ -19,6 +19,6 @@
         "typescript": "^5.5.0"
     },
     "dependencies": {
-        "@dragee-io/type": "0.0.1"
+        "@fixentropy-io/type": "^0.0.6"
     }
 }

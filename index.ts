@@ -1,4 +1,4 @@
-import { findRule, findRules, type Asserter } from '@dragee-io/type/asserter';
+import { findRule, findRules, type Asserter } from '@fixentropy-io/type/asserter';
 
 export default {
     namespace: 'clean',

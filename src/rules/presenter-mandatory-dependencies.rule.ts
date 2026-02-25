@@ -38,8 +38,8 @@ import {
     RuleSeverity,
     directDependencies,
     expectDragees
-} from '@dragee-io/type/asserter';
-import type { Dragee, DrageeDependency } from '@dragee-io/type/common';
+} from '@fixentropy-io/type/asserter';
+import type { Dragee, DrageeDependency } from '@fixentropy-io/type/common';
 import { presenterProfile, profiles, useCaseProfile } from '../clean.model.ts';
 
 const assertDrageeDependency = ({ root, dependencies }: DrageeDependency): RuleResult =>

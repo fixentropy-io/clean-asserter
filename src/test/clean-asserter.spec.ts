@@ -1,6 +1,6 @@
 import { describe, expect, test } from 'bun:test';
 
-import { type Report, asserterHandler } from '@dragee-io/type/asserter';
+import { type Report, asserterHandler } from '@fixentropy-io/type/asserter';
 import cleanAsserter from '../..';
 
 describe('Clean Asserter', () => {
